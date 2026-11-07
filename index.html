@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f5f1e8"><meta name="description" content="Révise tes cours avec des séries de quiz personnalisées.">
+  <link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="pwa-icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+  <title>Révision Express</title>
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar"><a class="brand" href="#" id="homeLink"><span class="brand-mark">R</span><span>Révision Express<small>Apprendre un peu, progresser beaucoup.</small></span></a><button id="installButton" class="quiet hidden">Installer l’app</button></header>
+    <section id="homeView" class="view">
+      <div class="hero"><p class="eyebrow">TON ESPACE DE RÉVISION</p><h1>Prêt·e à faire<br><em>travailler ta mémoire&nbsp;?</em></h1><p>Choisis une matière ou crée tes propres séries. Tes créations restent enregistrées sur cet appareil.</p></div>
+      <div class="toolbar"><div><h2>Les catégories</h2><p class="muted">Choisis une catégorie pour voir ses séries.</p></div><div class="toolbar-actions"><button class="button secondary" id="mySeriesButton">Mes séries</button><button class="button primary" id="createButton">＋ Créer plus</button></div></div>
+      <div id="categoryGrid" class="category-grid"></div>
+      <footer>Révision Express · Fonctionne aussi hors connexion après le premier chargement.</footer>
+    </section>
+    <section id="categoryView" class="view hidden"><button class="back" id="backHome">← Catégories</button><div class="section-heading"><p class="eyebrow">CATÉGORIE</p><h1 id="categoryTitle"></h1><p class="muted">Choisis une série à réviser.</p></div><div id="seriesGrid" class="series-grid"></div></section>
+    <section id="quizView" class="view hidden"><button class="back" id="abandonButton">← Abandonner la série</button><div class="quiz-card"><div class="quiz-meta"><span id="quizLabel"></span><span id="timer">05:00</span></div><div class="progress-line"><span id="progressBar"></span></div><p class="muted" id="progressText"></p><h1 id="questionText"></h1><div id="answers" class="answers"></div><p id="feedback" class="feedback"></p><button class="button primary wide" id="nextButton" disabled>Valider ma réponse</button></div></section>
+  </main>
+  <dialog id="dialog"><form method="dialog" id="dialogContent" onsubmit="event.preventDefault()"></form></dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
