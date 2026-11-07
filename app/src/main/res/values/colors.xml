@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="quiz_option_default">#D97706</color>
+    <color name="quiz_option_selected">#7C3AED</color>
+    <color name="quiz_correct">#16A34A</color>
+    <color name="quiz_wrong">#DC2626</color>
+    <color name="quiz_button_text">#FFFFFFFF</color>
+    <color name="quiz_feedback_neutral">#6B7280</color>
+</resources>

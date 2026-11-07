@@ -1,0 +1,51 @@
+question,option1,option2,option3,option4,correctIndex
+Combien font 8 x 7 ?,54,56,58,64,2
+Combien font 9 + 13 ?,21,22,23,24,2
+Combien font 45 - 18 ?,27,26,28,25,1
+Combien font 6 x 6 ?,30,42,36,48,3
+Combien font 81 / 9 ?,7,8,9,10,3
+Quel est le carre de 12 ?,124,142,144,154,3
+Quel est le double de 37 ?,72,74,76,78,2
+Quelle est la moitie de 96 ?,46,48,49,52,2
+Combien font 15 x 4 ?,45,50,55,60,4
+Combien font 100 - 47 ?,43,53,57,63,2
+Quel est le verbe dans "Les enfants jouent dehors" ?,enfants,jouent,dehors,les,2
+Quel mot est un adjectif ?,courir,bleu,vite,demain,2
+Quel est le pluriel de cheval ?,chevals,chevaux,chevals,chevaus,2
+Quel mot est un nom commun ?,Paris,maison,il,courir,2
+Quel pronom peut remplacer "Marie" ?,nous,elle,leur,ce,2
+Quel est l'infinitif de "nous finissons" ?,fini,finir,finissant,finis,2
+Quel mot est feminin ?,soleil,lune,stylo,cartable,2
+Quel mot est masculin ?,chaise,table,livre,fleur,3
+Quel temps est dans "il mangea" ?,present,futur,passe simple,imparfait,3
+Quel signe termine une question ?,point,virgule,point d'interrogation,deux points,3
+Comment dit-on chat en anglais ?,dog,cat,bird,fish,2
+Comment dit-on maison en anglais ?,car,house,school,tree,2
+Comment dit-on rouge en anglais ?,red,green,blue,black,1
+Comment dit-on livre en anglais ?,chair,table,book,door,3
+Quel est le pronom pour une fille ?,he,she,it,we,2
+Quel est le pronom pour plusieurs personnes ?,I,you,we,it,3
+Comment dit-on merci ?,sorry,please,thank you,hello,3
+Comment dit-on bonjour ?,goodbye,hello,thanks,sorry,2
+Comment dit-on chien ?,cat,bird,dog,horse,3
+Comment dit-on pomme ?,apple,orange,banana,grape,1
+Quelle est l'unite de la masse ?,metre,seconde,kilogramme,litre,3
+Quelle est l'unite de la longueur ?,metre,kilogramme,newton,watt,1
+Quelle est la formule de l'eau ?,CO2,H2O,O2,NaCl,2
+Quel gaz respirons-nous surtout ?,azote,oxygene,hydrogene,helium,2
+Quelle planete est la planete rouge ?,Venus,Mars,Jupiter,Mercure,2
+Quel etat a une forme propre ?,liquide,gaz,solide,plasma,3
+Que devient l'eau quand elle gele ?,vapeur,glace,pluie,boue,2
+Quel instrument mesure la temperature ?,balance,thermometre,amperemetre,regle,2
+Quel symbole chimique correspond a l'oxygene ?,Ox,O,O2,Og,2
+Quel symbole chimique correspond au fer ?,Fe,F,Fer,Ir,1
+Quelle est la capitale de la France ?,Lyon,Paris,Marseille,Lille,2
+Quelle est la capitale de l'Espagne ?,Lisbonne,Madrid,Barcelone,Seville,2
+Quelle est la capitale de l'Italie ?,Milan,Rome,Naples,Turin,2
+Sur quel continent se trouve le Bresil ?,Europe,Asie,Afrique,Amerique du Sud,4
+Sur quel continent se trouve l'Egypte ?,Afrique,Asie,Europe,Oceanie,1
+Quel ocean borde l'ouest de l'Europe ?,Pacifique,Indien,Atlantique,Arctique,3
+Quel est le plus long fleuve du monde parmi ces choix ?,Seine,Nil,Loire,Rhin,2
+Quelle montagne est la plus haute du monde ?,Mont Blanc,Everest,Kilimandjaro,Etna,2
+En quelle annee a commence la Revolution francaise ?,1789,1492,1914,1945,1
+Qui etait le premier empereur des Francais ?,Louis XIV,Napoleon Bonaparte,Charlemagne,Victor Hugo,2

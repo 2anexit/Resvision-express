@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+    <iq:application id="0c7844da-83ae-4977-aa60-00fffdccceb3" launcherIcon="@Drawables.LauncherIcon" minApiLevel="4.0.0" type="watch-app" name="@Strings.AppName" entry="RevisionExpressGarminApp">
+        <iq:products>
+            <iq:product id="fr265s"/>
+        </iq:products>
+        <iq:permissions>
+            <iq:uses-permission id="Communications"/>
+        </iq:permissions>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+            <iq:language>fre</iq:language>
+        </iq:languages>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>

@@ -1,0 +1,105 @@
+question,option1,option2,option3,option4,correctIndex
+Quelle est la capitale de la France ?,Lyon,Paris,Marseille,Lille,2
+Quelle est la capitale de l'Espagne ?,Lisbonne,Madrid,Barcelone,Seville,2
+Quelle est la capitale de l'Italie ?,Milan,Rome,Naples,Turin,2
+Sur quel continent se trouve le Bresil ?,Europe,Asie,Afrique,Amerique du Sud,4
+Sur quel continent se trouve l'Egypte ?,Afrique,Asie,Europe,Oceanie,1
+Quel ocean borde l'ouest de l'Europe ?,Pacifique,Indien,Atlantique,Arctique,3
+Quel est le plus long fleuve du monde parmi ces choix ?,Seine,Nil,Loire,Rhin,2
+Quelle montagne est la plus haute du monde ?,Mont Blanc,Everest,Kilimandjaro,Etna,2
+En quelle annee a commence la Revolution francaise ?,1789,1492,1914,1945,1
+Qui etait le premier empereur des Francais ?,Louis XIV,Napoleon Bonaparte,Charlemagne,Victor Hugo,2
+En quelle annee a eu lieu la chute du mur de Berlin ?,1969,1989,1999,2009,2
+Quel pays a pour capitale Londres ?,Irlande,Royaume-Uni,Canada,Australie,2
+Quelle est la capitale de l'Allemagne ?,Munich,Berlin,Hambourg,Francfort,2
+Quel desert est le plus grand desert chaud du monde ?,Gobi,Sahara,Atacama,Patagonie,2
+Quel fleuve traverse Paris ?,Loire,Seine,Garonne,Rhone,2
+Quel est le nom des habitants de la France ?,Francais,Franciliens,Franciens,Francites,1
+Quel continent est le plus vaste ?,Europe,Afrique,Asie,Amerique du Nord,3
+Quelle ligne imaginaire se trouve a 0 degre de latitude ?,tropique du Cancer,meridien de Greenwich,equateur,cercle polaire,3
+Quelle ligne imaginaire se trouve a 0 degre de longitude ?,equateur,meridien de Greenwich,tropique du Capricorne,date line,2
+Quel pays a la forme d'une botte ?,Portugal,Italie,Grece,Croatie,2
+Quel pays est voisin direct de la France ?,Bresil,Japon,Espagne,Egypte,3
+Quelle mer borde le sud de la France ?,mer du Nord,mer Mediterranee,mer Noire,mer Baltique,2
+En quelle annee a debute la Premiere Guerre mondiale ?,1914,1918,1939,1945,1
+En quelle annee a debute la Seconde Guerre mondiale ?,1914,1929,1939,1945,3
+Qui a decouvert l'Amerique en 1492 ?,Magellan,Christophe Colomb,Marco Polo,Vasco de Gama,2
+Quelle est la capitale du Japon ?,Seoul,Pekin,Tokyo,Osaka,3
+Quelle est la capitale du Canada ?,Toronto,Vancouver,Ottawa,Montreal,3
+Quel est le plus grand ocean ?,Atlantique,Pacifique,Indien,Arctique,2
+Quel pays est traverse par le Nil ?,Maroc,Egypte,Norvege,Chili,2
+Quel est le nom du parlement en France ?,Senat et Assemblee nationale,Congres des maires,Conseil des sages,Directoire,1
+Qui etait Louis XIV ?,un peintre,un roi de France,un explorateur,un philosophe,2
+Quelle ville est la capitale des Etats-Unis ?,New York,Los Angeles,Washington,Chicago,3
+Quel relief est plat et peu eleve ?,montagne,plateau,plaine,vallee profonde,3
+Quel relief est tres eleve ?,plaine,colline,montagne,delta,3
+Quel pays a pour capitale Lisbonne ?,Espagne,Portugal,Italie,Grece,2
+Quelle est la capitale de la Grece ?,Athenes,Sparte,Rome,Ankara,1
+Quel evenement marque la fin de la Seconde Guerre mondiale en Europe ?,armistice de 1918,capitulation allemande de 1945,chute de Rome,prise de la Bastille,2
+Quel monument se trouve a Paris ?,Big Ben,Colisee,Tour Eiffel,Statue de la Liberte,3
+Quel pays a pour capitale Bruxelles ?,Pays-Bas,Belgique,Suisse,Autriche,2
+Quel est le nom de l'ocean a l'est de l'Afrique ?,Atlantique,Indien,Pacifique,Arctique,2
+Quel pays est une ile ?,Allemagne,Suisse,Japon,Autriche,3
+Quelle est la capitale de l'Australie ?,Sydney,Melbourne,Canberra,Perth,3
+Quel pays a pour capitale Le Caire ?,Egypte,Maroc,Tunisie,Libye,1
+Quel monument servait a proteger la Chine ?,Mur d'Hadrien,Grande Muraille,Colisee,Acropole,2
+Qui etait Jeanne d'Arc ?,une reine d'Angleterre,une heroine francaise,une scientifique,une actrice,2
+Quel est le plus petit continent ?,Asie,Europe,Oceanie,Afrique,3
+Quelle est la capitale de l'Argentine ?,Buenos Aires,Lima,Santiago,Bogota,1
+Quel pays a pour capitale Ankara ?,Turquie,Grece,Bulgarie,Serbie,1
+Quel est le nom du continent ou se trouve l'Inde ?,Afrique,Europe,Asie,Oceanie,3
+Quelle mer se situe entre l'Europe et l'Afrique ?,mer Rouge,mer Mediterranee,mer Baltique,mer Caspienne,2
+"A quelle date précise s'est produit le krach boursier de Wall Street marque par le Jeudi noir ?","24 octobre 1929","11 novembre 1918","6 fevrier 1934","1er septembre 1939",1
+"Quel nom porte le modele de production industrielle apparu dans les annees 1920 aux Etats-Unis et base sur le travail a la chaine ?","Le taylorisme/fordisme","Le stakhanovisme","Le colbertisme","Le corporatisme",1
+"Pendant les annees 1920 aux Etats-Unis, de combien la valeur des actions a-t-elle augmente par rapport a une hausse de 50% de la production ?","Plus de 100%","20%","50%","500%",1
+"Quel roman celebre d'Ernest Hemingway ou d'John Steinbeck illustre la ruine des fermiers americains contraints a l'exode vers la Californie ?","Les Raisins de la colere de John Steinbeck","Germinal d'Emile Zola","Si c'est un homme de Primo Levi","Le Meilleur des mondes d'Aldous Huxley",1
+"En quelle annee la crise financiere americaine touche-t-elle de plein fouet l'Europe avec la faillite de grandes banques autrichiennes et allemandes ?","1931","1929","1936","1940",1
+"Quelle banque autrichienne renommee fait faillite en 1931, declenchant la crise bancaire en Europe centrale ?","Kredit Anstalt","Danat Bank","Wall Street Bank","Reichsbank",1
+"Quelle mesure economique le Royaume-Uni prend-il en premier des 1931 pour tenter de relancer son economie ?","La devaluation de la livre sterling et l'abandon de l'etalon-or","La nationalisation de toutes les usines","La semaine de 35 heures","L'interdiction des syndicats",1
+"Quel economiste britannique publie en 1936 la Theorie generale de l'emploi, de l'interet et de la monnaie, preconisant l'intervention de l'Etat ?","John Maynard Keynes","Adam Smith","Karl Marx","Milton Friedman",1
+"Comment s'appelle le programme de grands travaux et de relance economique lance par le president americain F. D. Roosevelt en 1933 ?","Le New Deal","Le Victory Program","Le Plan Marshall","La Révolution nationale",1
+"A la suite de quelle manifestation de ligues d'extreme droite le 6 fevrier 1934 la gauche francaise s'unit-elle dans le Front populaire ?","La manifestation antiplementaire du 6 fevrier 1934","Le coup d'Etat du 18 Brumaire","La Marche sur Rome","La Nuit de cristal",1
+"Quel est le slogan du programme politique du Front populaire lors des elections legislatives de 1936 en France ?","Le pain, la paix, la liberte","Travail, Famille, Patrie","Ein Volk, ein Reich, ein Fuhrer","La terre aux paysans, l'usine aux ouvriers",1
+"Qui devient le President du Conseil francais a la suite de la victoire du Front populaire en mai 1936 ?","Leon Blum","Philippe Petain","Edouard Daladier","Pierre Laval",1
+"Quels accords sociaux majeurs sont signes en France en juin 1936 entre le patronat et la CGT sous l'egide du gouvernement du Front populaire ?","Les accords de Matignon","Le traite de Versailles","Le pacte d'Acier","Les accords de Munich",1
+"Parmi ces mesures, laquelle a ete introduite par le Front populaire en France en 1936 ?","Les 15 jours de conges payes pour tous les salaries","L'instauration du STO","Le droit de vote des femmes","La semaine de 48 heures",1
+"A combien de heures la semaine de travail est-elle fixee par les lois du Front populaire en 1936 ?","40 heures","35 heures","48 heures","50 heures",1
+"En quelle annee Joseph Staline prend-il le pouvoir personnel absolu en URSS apres avoir ecarte Trotski ?","1928","1917","1933","1939",1
+"Quel coup d'eclat/evenement de 1922 permet a Benito Mussolini d'etre nomme chef du gouvernement italien par le roi Victor-Emmanuel III ?","La Marche sur Rome","L'incendie du Reichstag","La Nuit des longs couteaux","L'Anschluss",1
+"Comment s'appellent les lois promulguees en Italie entre 1925 et 1926 qui instaurent la dictature fasciste et le parti unique ?","Les lois fascistissimes","Les lois de Nuremberg","Les accords de Matignon","Les actes constitutionnels",1
+"Comment Adolf Hitler devient-il chancelier de l'Allemagne en janvier 1933 ?","Il est nomme legalement par le president Hindenburg suite aux succes electoraux du NSDAP","Par un coup d'Etat militaire violent a Berlin","A la suite d'une revolution populaire communiste","Par une decision directe de la Societe des Nations",1
+"Quel prétexte incendiaire de fevrier 1933 permet a Hitler de faire interdire le Parti communiste et de suspendre les libertes individuelles ?","L'incendie du Reichstag","L'assassinat de Matteotti","La Nuit de cristal","Le putsch de la Brasserie",1
+"Quel titre prend Benito Mussolini en tant que chef suprême du regime fasciste italien ?","Le Duce","Le Fuhrer","Le Vodj","Le Caudillo",1
+"Quel est le nom de l'organisation de jeunesse sous le regime fasciste italien pour les garcons de 8 a 14 ans ?","Les Balilla","Les Jeunesses hitleriennes","Les Komsomols","Les Pionniers",1
+"En URSS, comment s'appelle le vaste reseau de camps de travail force destine aux opposants politiques et aux 'ennemis du peuple' ?","Le Goulag","Dachau","La Gestapo","L'OVRA",1
+"Comment se nomme la vague de purges politiques et de proces truques organises par Staline en URSS entre 1937 et 1938 ?","La Grande Terreur","La Nuit de cristal","La Nuit des longs couteaux","La collectivisation",1
+"En URSS, quelle politique economique lancee en 1929 consiste a mettre en commun les terres et les moyens de production agricole ?","La collectivisation des terres (Kolkhozes)","Le New Deal","L'autarcie industrielle","La devaluation du rouble",1
+"Quelles lois antisemites adoptees par le regime nazi en 1935 privent les Juifs allemands de leur citoyennete ?","Les lois de Nuremberg","Les lois fascistissimes","Les accords de Munich","Le statut des Juifs de Vichy",1
+"Comment s'appelle le pogrom d'Etat nazi organise dans la nuit du 9 au 10 novembre 1938 contre les Juifs d'Allemagne ?","La Nuit de cristal","La Nuit des longs couteaux","L'Operation Barbarossa","L'Anschluss",1
+"En juin 1934, quelle purge interne permet a Hitler d'eliminer les dirigeants de la SA (dont Ernst Rohm) au profit de la SS ?","La Nuit des longs couteaux","La Nuit de cristal","Le proces de Moscou","L'incendie du Reichstag",1
+"Quel territoire africain l'Italie fasciste de Mussolini envahit-elle en 1935-1936 en violation du droit international ?","L'Ethiopie (Abyssinie)","L'Egypte","La Tunisie","Le Maroc",1
+"Comment nomme-t-on la politique d'annexion nazi visant a rassembler tous les peuples germanophones et acquerir un 'espace vital' ?","Le Lebensraum","Le Stakhanovisme","La Révolution nationale","Le Blitzkrieg",1
+"Quel terme allemand designe l'annexion de l'Autriche par l'Allemagne nazie en mars 1938 ?","L'Anschluss","La Sudetenland","Le Reichstag","Le Komintern",1
+"Lors de la conference de Munich de septembre 1938, quelles puissances democratiques cèdent aux exigences d'Hitler d'annexer la région des Sudètes ?","La France et le Royaume-Uni","Les Etats-Unis et l'URSS","L'Italie et l'Espagne","La Pologne et la Tchecoslovaquie",1
+"Quel pacte d'alliance militaire et politique est signe en mai 1939 entre l'Allemagne d'Hitler et l'Italie de Mussolini ?","Le Pacte d'Acier","Le Pacte Anti-Komintern","Le Pacte germano-sovietique","La Tripartite",1
+"Quel accord secret signe en aout 1939 entre l'Allemagne nazie et l'URSS prevoyait la non-agression et le partage de la Pologne ?","Le Pacte germano-sovietique","Les accords de Munich","Le traite de Versailles","Le Pacte d'Acier",1
+"Pendant la guerre civile d'Espagne (1936-1939), quel general nationaliste prend le pouvoir et installe une dictature autoritaire ?","Le general Francisco Franco","Le general de Gaulle","Le maréchal Petain","Emilio Mola",1
+"Quel evenement du 1er septembre 1939 declenche la Seconde Guerre mondiale en Europe ?","L'invasion de la Pologne par l'Allemagne nazie","L'attaque de Pearl Harbor","L'Anschluss de l'Autriche","La bataille de Stalingrad",1
+"Quelle attaque surprise japonaise du 7 decembre 1941 provoque l'entree en guerre des Etats-Unis ?","L'attaque de la base navale de Pearl Harbor","La bataille de Midway","Le bombardement de Hiroshima","L'invasion de la Mandchourie",1
+"Quelle grande bataille navale de juin 1942 marque le tournant de la guerre dans l'Ocean Pacifique au profit des Etats-Unis ?","La bataille de Midway","La bataille de Guadalcanal","La bataille d'El-Alamein","La bataille de Coral",1
+"Quelle bataille terrestre majeure (juillet 1942 - fevrier 1943) constitue le tournant decisif de la guerre sur le front de l'Est en Europe ?","La bataille de Stalingrad","La bataille de Koursk","La bataille de Moscou","L'Operation Barbarossa",1
+"Quel est le nom de code du debarquement allie en Normandie le 6 juin 1944 (D-Day) ?","Operation Overlord","Operation Torch","Operation Barbarossa","Operation Market Garden",1
+"A quelle date l'Allemagne nazie capitule-t-elle sans condition, mettant fin a la guerre en Europe ?","8 mai 1945","6 juin 1944","2 septembre 1945","11 novembre 1945",1
+"Aux dates des 6 et 9 aout 1945, sur quelles villes japonaises les Etats-Unis larguent-ils les armes atomiques ?","Hiroshima et Nagasaki","Tokyo et Kyoto","Osaka et Yokohama","Sapporo et Kobe",1
+"Combien de victimes humaines environ la Seconde Guerre mondiale a-t-elle faites au total dans le monde ?","Environ 60 millions de morts (dont une majorite de civils)","Environ 10 millions de morts","Environ 20 millions de morts","Environ 100 millions de morts",1
+"Comment nomme-t-on les groupes d'intervention SS charges du massacre systematique des Juifs par fusillade a l'Est ('Shoah par balles') ?","Les Einsatzgruppen","La Gestapo","Les FFI","La Milice",1
+"Lors de quelle conference de janvier 1942 les dirigeants nazis planifient-ils l'extermination industrielle des Juifs d'Europe ('solution finale') ?","La conference de Wannsee","La conference de Yalta","La conference de Munich","La conference de Potsdam",1
+"Quel est le plus grand camp mixte de concentration et d'extermination nazi, ou plus d'un million de victimes ont ete assassinees ?","Auschwitz-Birkenau","Dachau","Buchenwald","Ravensbruck",1
+"Quel terme hébreu désigne le génocide des Juifs pendant la Seconde Guerre mondiale ?","La Shoah","Le Samudaripen","Le Komintern","Le Pogrom",1
+"A quelle date le marechal Philippe Petain prononce-t-il l'armistice et demande-t-il de cesser le combat en France ?","17 juin 1940","18 juin 1940","10 juillet 1940","11 novembre 1942",1
+"A quelle date et depuis quelle radio le general Charles de Gaulle lance-t-il son celebre appel a poursuivre le combat depuis Londres ?","Le 18 juin 1940 a la BBC","Le 10 juillet 1940 a Radio-Paris","Le 6 juin 1944 a la VOA","Le 8 mai 1945",1
+"Quelle devise officielle remplace 'Liberte, Egalite, Fraternite' sous le regime de Vichy du marechal Petain ?","Travail, Famille, Patrie","Le pain, la paix, la liberte","L'union fait la force","Ordre et Progres",1
+"Quel service obligatoire cree en 1943 par le regime de Vichy contraint les jeunes Francais a aller travailler dans les usines allemandes ?","Le STO (Service du travail obligatoire)","La Relève","Le CNR","La Milice",1
+"Quelle organisation paramilitaire francaise creee en 1943 par Vichy aidait la Gestapo a traquer les resistants et les Juifs ?","La Milice","Les FFL","La SA","Les Brigades internationales",1
+"Qui est charge par le general de Gaulle en 1942 d'unifier les reseaux de resistance interieure au sein du Conseil national de la Resistance (CNR) ?","Jean Moulin","Philippe Leclerc","Pierre Laval","Jean de Lattre de Tassigny",1
+"Quel grand proces international organise de 1945 a 1946 juge 21 hauts dirigeants nazis pour crimes contre l'humanite et crimes de guerre ?","Le proces de Nuremberg","Le proces de Tokyo","Le proces de Moscou","Le proces de Riom",1

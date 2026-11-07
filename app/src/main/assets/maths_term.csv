@@ -1,0 +1,31 @@
+question,option1,option2,option3,option4,indice de la réponse
+"Soit (Un) la suite definie par Un = racine(2n+6). Quel est le terme U1 ?","racine(6)","2*racine(2)","racine(10)","4",2
+"Soit (Un) la suite definie par Un = n^2. Quel est le terme Un+1 en fonction de n ?","n^2 + 1","(n+1)^2","n^2 + 2n + 1","n^2 + n + 1",3
+"Quelle est la regle numéro 1 pour étudier le sens de variation d'une suite (Un) ?","Etudier la difference Un+1 - Un","Etudier le signe de la derivee f'(n)","Comparer Un+1 / Un a 1","Calculer la limite de Un",1
+"Pour une suite geometrique de premier terme U0 et de raison q (q différent de 1), quelle est la formule de la somme de N termes consécutifs Sn ?","U0 * (1 - q^N) / (1 - q)","U0 * (1 - q^(N-1)) / (1 - q)","N * U0 + r * N*(N-1)/2","U0 * q^N",1
+"Quelles sont les trois etapes fondamentales d'un raisonnement par recurrence ?","Hypothese, Deduction, Conclusion","Initialisation, Heredite, Conclusion","Base, Étape, Resultat","Verification, Application, Fin",2
+"Soit (Un) une suite arithmétique de premier terme U0 et de raison r. Quelle est sa formule explicite Un ?","Un = U0 * r^n","Un = U0 + n * r","Un = U0 + (n-1)*r","Un = n * U0 + r",2
+"Dans la regle n°3 sur les variations, si pour tout n, Un+1 / Un >= 1 (termes strictement positifs), alors la suite est :","Croissante","Décroissante","Constante","Alternative",1
+"Quel est le resultat de la somme des entiers de 1 a N : 1 + 2 + ... + N ?","N*(N-1)/2","N*(N+1)/2","N^2","N*(N+1)(2N+1)/6",2
+"Soit (Un) definie par U0 = 0 et Un+1 = racine(Un + 6). Quel est le terme U1 ?","0","racine(6)","6","3",2
+"Pour l'initialisation de la propriete 4^n - 1 multiple de 3 au rang n = 0, que vaut 4^0 - 1 ?","0","3","4","1",1
+"Dans l'espace, si deux droites n'ont aucun point commun et ne sont pas coplanaires, comment sont-elles qualifiées ?","Sécantes","Parallèles strictement","Non coplanaires","Confondues",3
+"Si deux plans P et P' sont sécants selon une droite Delta et si d et d' sont deux droites parallèles incluses respectivement dans P et P', alors Delta est :","Perpendiculaire à d et d'","Parallèle à d et d'","Sécante avec d et d'","Incluse dans P",2
+"Soit A, B, C trois points de l'espace. Dire que les points A, B, C sont alignés équivaut à dire que :","vect(AB) et vect(AC) sont colinéaires","vect(AB) + vect(BC) = vect(AC)","vect(AB) et vect(AC) sont orthogonaux","Le milieu de [AC] est B",1
+"Soient A, B, C trois points non alignés. L'ensemble des points M tels qu'il existe (x,y) dans R^2 vérifiant vect(AM) = x*vect(AB) + y*vect(AC) est :","La droite (AB)","Le plan (ABC)","Le segment [BC]","L'espace tout entier",2
+"Soient A(xA; yA; zA) et B(xB; yB; zB) deux points de l'espace. Quelles sont les coordonnées du vecteur vect(AB) ?","(xA - xB; yA - yB; zA - zB)","((xA + xB)/2; (yA + yB)/2; (zA + zB)/2)","(xB - xA; yB - yA; zB - zA)","(xA * xB; yA * yB; zA * zB)",3
+"Soient A(xA; yA; zA) et B(xB; yB; zB). Quelles sont les coordonnées du milieu I du segment [AB] ?","((xA + xB)/2; (yA + yB)/2; (zA + zB)/2)","(xB - xA; yB - yA; zB - zA)","(2*xA; 2*yA; 2*zA)","((xA - xB)/2; (yA - yB)/2; (zA - zB)/2)",1
+"Dans un repère (O; i, j, k), une droite d passant par A(xA; yA; zA) et dirigée par u(a;b;c) a pour représentation paramétrique (t dans R) :","x = a + xA*t, y = b + yA*t, z = c + zA*t","x = xA + a*t, y = yA + b*t, z = zA + c*t","x = xA + t, y = yA + t, z = zA + t","a*x + b*y + c*z = 0",2
+"Un plan P passant par A(xA; yA; zA) et dirigé par deux vecteurs non colinéaires u et v est défini par l'existence de :","Un unique réel t","Un unique réel s","Un couple (t, s) dans R^2","Un triplet (t, s, k) dans R^3",3
+"Si un vecteur directeur d'une droite est une combinaison linéaire de deux vecteurs directeurs non colinéaires d'un plan, alors la droite et le plan sont :","Sécants en un point unique","Parallèles (strictement ou inclus)","Perpendiculaires","Confondus",2
+"Un repère de l'espace (O; i, j, k) est formé d'un point origine O et d'un triplet de vecteurs :","Colinéaires","Coplanaires","Non coplanaires","Nuls",3
+"Quelle est la limite de la suite de référence (1/n) lorsque n tend vers +infinity ?","1","0","+infinity","-infinity",2
+"Que dit-on d'une suite qui admet une limite finie l ?","Elle est divergente","Elle est convergente","Elle est constante","Elle est alternative",2
+"Soit (un) et (vn) deux suites telles que un <= vn à partir d'un certain rang et lim un = +infinity. Que vaut lim vn ?","0","l (fini)","-infinity","+infinity",4
+"Que énonce le théorème des gendarmes (ou d'encadrement) pour trois suites (un), (vn) et (wn) telles que un <= vn <= wn ?","Si (un) et (wn) tendent vers la même limite l, alors (vn) tend vers l","Si (un) tend vers +infinity, alors (vn) tend vers +infinity","Si (wn) tend vers 0, alors (vn) tend vers 0","Si (un) diverge, alors (vn) diverge",1
+"Pour une suite géométrique (q^n) avec q > 1, quelle est sa limite lorsque n tend vers +infinity ?","0","1","+infinity","Elle n'admet pas de limite",3
+"Pour une suite géométrique (q^n) avec -1 < q < 1, quelle est sa limite lorsque n tend vers +infinity ?","0","1","+infinity","-infinity",1
+"Que peut-on affirmer d'une suite croissante et majorée ?","Elle diverge vers +infinity","Elle diverge vers -infinity","Elle est convergente","Elle n'admet aucune limite",3
+"Que peut-on affirmer d'une suite décroissante et non minorée ?","Elle converge vers 0","Elle diverge vers -infinity","Elle diverge vers +infinity","Elle est bornée",2
+"Parmi les opérations sur les limites, quelle est la limite de la somme de deux suites tendant respectivement vers +infinity et +infinity ?","0","Forme indéterminée","-infinity","+infinity",4
+"Pour q <= -1 (par exemple q = -2), que fait la suite géométrique (q^n) ?","Elle converge vers 0","Elle converge vers 1","Elle diverge et n'admet pas de limite","Elle diverge vers +infinity uniquement",3
